@@ -1,0 +1,115 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.container{
+   background: url(../assets/fondo.png);
+   height: 400px;
+}
+
+.container h1{
+    color: white;
+    text-align: center;
+    padding: 90px 0px 20px;
+}
+
+.container p{
+    color: white;
+    text-align: center;
+    margin: 0px 100px;
+}
+
+.container button{
+    padding: 10px;
+    margin: 30px 500px;
+    background-color: #1e3a8a;
+    color: white;
+}
+
+.container2 {
+    background-color: rgb(247, 247, 250);
+    width: 5000px;
+    height: 500px;
+}
+
+.container2 h2{
+    color: #1e3a8a;
+    margin: 0px 0px 0px 700px;
+    padding: 50px;
+}
+
+.contenido1{
+    
+    margin: 0px 400px ;
+    padding: 20px 20px 20px 20px;
+    display: flex;
+    gap: 20px;
+}
+
+.card{
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.card img{
+    background-color: rgb(255, 255, 255);
+    width: 250px;
+    height: 150px;
+    border-radius: 8px;
+    margin: 5px;
+}
+
+.card h3{
+    color: #1e3a8a;
+    margin: 5px 10px;
+}
+
+.card p{
+    margin: 10px;
+}
+
+.card button{
+    background-color: #1e3a8a;
+    color: white;
+    padding: 10px 100px 10px 100px;
+}
+
+.container3{
+    margin: 20px 0px 0px;
+    height: 400px;
+    background-color: #1e3a8a;
+}
+
+.container3 h4{
+    color: white;
+    font-size: 25px;
+    margin: 0px 750px 0px;
+    padding: 80px;
+}
+
+.contenido2{
+    display: flex;
+    gap: 80px;
+}
+
+.card2 img{
+    margin: 0px 100px 10px;
+}
+
+.card2 h5{
+    margin: 0px 80px 10px;
+}
+
+.card2 p{
+    margin: 0px 40px 0px 30px;
+}
+
+.footer{
+    background-color: white;
+    margin: 50px 0px;
+    padding: 20px;
+}
